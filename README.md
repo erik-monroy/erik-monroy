@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @erik-monroy
-- 🥼 I'm a Biostatistician for Exactech's Clinical Data team
-- 👀 I’m interested in biostatistics, AI/ML ethics, and medical device data analysis
-- 🌱 I’m currently learning accelerometry visualizations
-- 📫 Reach me via Teams or email
+- 👋 Hi, I’m @angelo-monroy
+- 🥼 I'm a data scientist for Dexcom's Behavioral Science team
+- 👀 I’m interested in all things data, especialy related to health, biostatistics, and AI/ML ethics
+- 🌱 I have a work github, so you won't see much of my activity here!
+- 📫 Reach me via LinkedIn
 
 <!---
 erik-monroy/erik-monroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
